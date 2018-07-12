@@ -1,0 +1,51 @@
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+c:\users\skania@ppinf.local\documents\visual studio 2015\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+C:\Users\ssymon\Desktop\Szkoła\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ostatni5\Desktop\C#\TCPclient\TCPclient\bin\Debug\Newtonsoft.Json.xml
+D:\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+D:\C#\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+D:\C#\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+D:\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+D:\C#\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+D:\C#\TCPclient\TCPclient\bin\Debug\Newtonsoft.Json.dll
+D:\C#\TCPclient\TCPclient\bin\Debug\Newtonsoft.Json.xml
+D:\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+D:\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+D:\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+D:\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
+F:\SZKOŁA\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+F:\SZKOŁA\C#\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+F:\SZKOŁA\C#\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+F:\SZKOŁA\C#\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+F:\SZKOŁA\C#\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+F:\SZKOŁA\C#\TCPclient\TCPclient\bin\Debug\Newtonsoft.Json.dll
+F:\SZKOŁA\C#\TCPclient\TCPclient\bin\Debug\Newtonsoft.Json.xml
+F:\SZKOŁA\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+F:\SZKOŁA\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+F:\SZKOŁA\C#\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+F:\SZKOŁA\C#\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
